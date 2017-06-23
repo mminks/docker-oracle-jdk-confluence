@@ -8,7 +8,7 @@ This images derives from [airdock/oracle-jdk:jdk-1.8](https://hub.docker.com/r/a
 
 # Used Confluence version
 
-5.9.12
+5.10.8
 
 # How to use this image
 
